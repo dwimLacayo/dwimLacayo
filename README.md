@@ -14,9 +14,10 @@
 - 📫 Como encontrarme:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:computer:&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:envelope:&nbsp;&nbsp; [GMAIL](mailto:mg.lacayo07@gmail.com)
-- ⚡ Fun fact: Este git esta enfocado a la gente hispanohablante
+- ⚡ Fun fact: En modo obscuro se ven mejor mis stats
 
 
 ¿Quieres saber usar emogis? ----> [rxaviers](https://gist.github.com/rxaviers/7360908)<br>
 ¿Quieres crear tu readme? ----> [anuraghazra](https://github.com/anuraghazra/github-readme-stats#github-extra-pins)<br><br>
-No olvides dejar tus estrellas&nbsp;&nbsp;:star::star::star:
+No olvides dejar tus estrellas&nbsp;&nbsp;:star::star::star:<br>
+Este git esta dedicado a la gente hispanohablante
