@@ -4,8 +4,8 @@
 
 ### Hola! Soy Maria 👋
 
-![Maria Lacayp's GitHub stats](https://github-readme-stats.vercel.app/api?username=mglacay0&show_icons=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mglacay0&layout=compact&show_icons=true&count_private=true&theme=radical)
+![Maria Lacayp's GitHub stats](https://github-readme-stats.vercel.app/api?username=mglacayo07&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mglacayo07&layout=compact&show_icons=true&count_private=true&theme=radical)
 
 
 - 🔭 Actualmente estoy trabajando en [GPScontrol](https://rastreogpscontrol.com.mx/)
