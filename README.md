@@ -5,15 +5,17 @@
 ### Hi! I'm Maria 👋
 
 ![Maria Lacayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mglacayo07&show_icons=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mglacayo07&layout=compact&show_icons=true&count_private=true&theme=radical)
 
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mglacayo07&layout=compact&show_icons=true&count_private=true&theme=radical)
+-->
 
 - 🔭 I’m currently working on [GPScontrol](https://rastreogpscontrol.com.mx/)
 - 🌱 I'm studying [DIPLOMADO DESARROLLO DE APLICACIONES MÓVILES](http://ioslab.ingenieria.unam.mx/diplomado.html)
 - 💬 Ask me about Python, TurboGears, Flask, Gunicorn
+- :relaxed: Pronouns: She
 - 📫 How reach me:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:computer:&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:envelope:&nbsp;&nbsp; [GMAIL](mailto:mg.lacayo07@gmail.com)
 - ⚡ Fun fact: My stats looks better on dark mode
 
 
