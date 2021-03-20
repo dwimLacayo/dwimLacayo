@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [GPScontrol](https://rastreogpscontrol.com.mx/)
 - 🌱 I'm studying [DIPLOMADO DESARROLLO DE APLICACIONES MÓVILES](http://ioslab.ingenieria.unam.mx/diplomado.html)
 - 💬 Ask me about Python, TurboGears, Flask, Gunicorn
-- 📫 How to find me:<br>
+- 📫 How reach me:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:computer:&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:envelope:&nbsp;&nbsp; [GMAIL](mailto:mg.lacayo07@gmail.com)
 - ⚡ Fun fact: My stats looks better on dark mode
