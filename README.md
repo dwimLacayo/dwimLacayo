@@ -2,9 +2,9 @@
 **dwimLacayo/dwimLacayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hola! Soy Maria 👋
+### Hi! I'm Maria 👋
 
-![Maria Lacayp's GitHub stats](https://github-readme-stats.vercel.app/api?username=mglacayo07&show_icons=true&count_private=true&theme=radical)
+![Maria Lacayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mglacayo07&show_icons=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mglacayo07&layout=compact&show_icons=true&count_private=true&theme=radical)
 
 
