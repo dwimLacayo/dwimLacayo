@@ -7,7 +7,6 @@
 ![Maria Lacayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mglacayo07&show_icons=true&count_private=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mglacayo07&layout=compact&show_icons=true&count_private=true&theme=radical)
 
 
 - 🔭 I’m currently working on [GPScontrol](https://rastreogpscontrol.com.mx/)
