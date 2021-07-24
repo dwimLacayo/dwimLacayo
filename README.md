@@ -1,7 +1,7 @@
 <!--
 **dwimLacayo/dwimLacayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### Hi! I'm Maria 👋
 
@@ -17,7 +17,8 @@
 
 ¿Emogis? ----> [rxaviers](https://gist.github.com/rxaviers/7360908)<br>
 
-![Maria Lacayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mglacayo07&show_icons=true&count_private=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mglacayo07&theme=dracula&title=Commit,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- ![Maria Lacayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mglacayo07&show_icons=true&count_private=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mglacayo07&layout=compact&show_icons=true&count_private=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mglacayo07&layout=compact&show_icons=true&count_private=true&theme=dracula)
+-->
