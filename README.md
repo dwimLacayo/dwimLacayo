@@ -11,7 +11,7 @@
 - 💬 Ask me about Python, TurboGears, Flask, Gunicorn
 - :relaxed: Pronouns: She
 - 📫 How reach me:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:computer:&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:computer:&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/maria-lacayo-2b8143189/)<br>
 - ⚡ Fun fact: My stats looks better on dark mode
 
 
