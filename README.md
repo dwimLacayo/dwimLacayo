@@ -9,8 +9,6 @@
 - 🔭 I’m currently working on [GPScontrol](https://rastreogpscontrol.com.mx/)
 - 💬 Ask me about Python, TurboGears, Flask, Gunicorn
 - :relaxed: Pronouns: She
-- 📫 How reach me:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:computer:&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/maria-lacayo-2b8143189/)<br>
 - ⚡ Fun fact: My stats looks better on dark mode
 - :computer: I finished my studies in Swift [DIPLOMADO DESARROLLO DE APLICACIONES MÓVILES](http://ioslab.ingenieria.unam.mx/diplomado.html)
 - :jp: I'm learning Japanese at [FES Acatlán](https://www.acatlan.unam.mx/index.php?id=97)
