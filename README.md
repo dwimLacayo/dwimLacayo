@@ -12,6 +12,9 @@
 - 📫 How reach me:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:computer:&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/maria-lacayo-2b8143189/)<br>
 - ⚡ Fun fact: My stats looks better on dark mode
+- :computer: I finished my studies in Swift [DIPLOMADO DESARROLLO DE APLICACIONES MÓVILES](http://ioslab.ingenieria.unam.mx/diplomado.html)
+- :jp: I'm learning Japanese at [FES Acatlán](https://www.acatlan.unam.mx/index.php?id=97)
+- 🌱 I'm studying [Django](https://www.djangoproject.com/) by my self
 
 
 ¿Emogis? ----> [rxaviers](https://gist.github.com/rxaviers/7360908)<br>
