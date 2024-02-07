@@ -22,6 +22,5 @@
 
 ![Maria Lacayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mglacayo07&show_icons=true&count_private=true&theme=dracula)
  -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mglacayo07&layout=compact&show_icons=true&count_private=true&theme=dracula)
 
 
